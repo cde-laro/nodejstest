@@ -4,6 +4,8 @@ Tennis players API is a simple API that return tennis players according to their
 
 This is a technicaltest
 
+The default port is 4242
+
 ## Installation
 
 
